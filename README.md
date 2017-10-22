@@ -24,4 +24,4 @@ If you wanna contribute in any way feel free to :)
 
 Example:
 
-![Alt Text](https://i.imgur.com/undefined.png)
+![Alt Text](https://i.imgur.com/MejPEK0.png)
