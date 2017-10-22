@@ -1,0 +1,92 @@
+body {
+    background: rgba(255, 0, 0, 0.65);
+}
+h1, h2, h3 {
+    color: white;
+    letter-spacing: 2px;
+    text-shadow: 3px 2px #000000;
+}
+h4 {
+    display: inline;
+}
+h1, h2 {
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    padding-top: 8px;
+}
+
+h3, h4 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 28px;
+}
+a, a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+}
+
+a, a:hover {
+    color: inherit;
+}
+.well {
+    margin-top: 60px;
+    background: rgba(240, 45, 33, 0.81);
+    border: none;
+    box-shadow: 8px 10px 20px 2px #000000;
+}
+.username {
+    font-size: 22px;
+    padding-bottom: 10px;
+}
+.username:hover {
+    font-size: 22px;
+    padding-bottom: 10px;
+    letter-spacing: 4px;
+}
+.name:hover {
+    letter-spacing: 4px;
+}
+.location:hover {
+    letter-spacing: 4px;
+}
+.desc {
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-style: italic;
+}
+.desc:hover {
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-style: italic;
+    letter-spacing: 4px;
+}
+.stat {
+    font-style: italic;
+}
+.stat:hover {
+    letter-spacing: 4px;
+}
+.title {
+    font-style: italic;
+}
+.img-circle {
+    border-radius: 50%;
+    margin-top: 9px;
+}
+.avatar {
+    box-shadow: 4px 4px 14px 1px #000000
+}
+
+.tag {
+    padding: 1px 10px 1px 8px;
+    color: white;
+    background: black;
+    font-style: italic;
+}
+
+.tag:hover {
+    padding: 1px 10px 1px 8px;
+    color: black;
+    background: white;
+    font-style: italic;
+}
